@@ -20,7 +20,6 @@ Architected and developed a comprehensive web-based Online Tutoring Management S
     
     
     
-</p>Final Report - (https://github.com/Kishara007/Online-Tutoring-Management-System/files/7968882/Final.Report.pdf)
 
 <br><br>
 ![1](https://user-images.githubusercontent.com/96550083/151817160-f44b7c59-b343-49a2-aa92-102c37463aa2.png)
