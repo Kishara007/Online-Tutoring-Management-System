@@ -8,11 +8,14 @@
  <br>   <br>   
     
  <h1>Online Tutoring Management System</h1>
- <p>This system has been developed for assignment purposes in our university the 2nd year 2nd semester and I scored an 'A' grade for this "ITP" module assignment. The system can manage all the functions related to the Tutoring Management System. I engaged in the below areas in this project. </p>
-  <p>* I worked as an active member of the team.</p>
-  <p>* I mainly used laravel framework and bootstrap in this system.</p>
-  <p>* I developed the class management part of this system.</p>
-  <p>* I applied all the crud operations and new features in this system.</p>
+ 
+Architected and developed a comprehensive web-based Online Tutoring Management System (Tutoring Tube) designed to streamline educational workflows and administrative operations.
+
+• Engineered the core class management component, implementing robust end-to-end data workflows to facilitate seamless scheduling and course administration.
+
+• Built a responsive, user-centric front-end interface utilizing Bootstrap, ensuring an optimal and accessible experience for both students and tutors.
+
+• Developed a scalable backend architecture using the Laravel framework to integrate advanced features and maintain overall system reliability.
  
     
     
